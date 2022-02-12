@@ -20,4 +20,4 @@ THEN I can save my initials and score
 
 ![alt text](https://github.com/Benjamineidum/APIQuiz/blob/main/assets/images/APIQuiz_SC.png)
 
-benjamineidum.github.io/apiquiz/
+https://benjamineidum.github.io/APIQuiz/
