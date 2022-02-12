@@ -17,3 +17,7 @@ WHEN all questions are answered or the timer reaches 0\
 THEN the game is over\
 WHEN the game is over\
 THEN I can save my initials and score
+
+![alt text](https://github.com/Benjamineidum/APIQuiz/blob/main/assets/images/APIQuiz_SC.png)
+
+benjamineidum.github.io/apiquiz/
